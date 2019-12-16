@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Views</string>
+    <string name="welcome_to_youtube">Welcome to YouTube</string>
+    <string name="new_awesomeness_awaits">New awesomeness awaits...</string>
+    <string name="youtube">youtube</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+</resources>
